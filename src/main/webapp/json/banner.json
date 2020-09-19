@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "zhangsan",
+    "headPic": "A2.jpg"
+  },
+  {
+    "id": "2",
+    "name": "lisi",
+    "headPic": "A2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "wangwu",
+    "headPic": "A2.jpg"
+  }
+]
